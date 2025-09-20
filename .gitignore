@@ -1,5 +1,13 @@
 .gradle
 build/
+/bin/
+/logs/
+out/
+.project
+/Results/
+/results/
+target/
+*.log
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
